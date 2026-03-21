@@ -1,0 +1,1 @@
+Development of Cloud Django project for POS 
